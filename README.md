@@ -1,0 +1,2 @@
+# ostping
+Offline StorageTable notificator
